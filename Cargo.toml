@@ -1,0 +1,8 @@
+[package]
+name = "karotta"
+version = "0.1.0"
+authors = ["Alex Beregszaszi <alex@rtfs.hu>"]
+license = "GPL-3.0"
+description = "Karotta is a prototype implementation of Wortels"
+
+[dependencies]
